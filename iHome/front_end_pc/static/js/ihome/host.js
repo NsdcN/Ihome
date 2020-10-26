@@ -1,0 +1,1 @@
+var host = "http://www.ihome.com:8000"
